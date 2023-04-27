@@ -1,0 +1,423 @@
+.zero{
+    background-color: red;
+    height: 50px;
+    color: red;
+    width: 1890px;
+
+}
+.second, .third, .fourth{
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+    padding-left: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+.second{
+    margin-left: 400px;
+}
+.soft{
+    padding: 1px;
+    margin-left: 320px;
+    padding-right: 189px;
+}
+.primera{
+   margin: 38px;
+   margin-left: 10px;
+   padding: 7px;
+   
+}
+body{
+    background-color: rgba(255, 249, 249, 0.962);
+}
+li{
+    display: inline;
+    margin-right: 28px;
+    text-decoration: solid;
+    text-transform: uppercase;
+}
+#pot, #pots, #potss, #potsss, #potssss, #potsssss{
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+span{
+    color: red;
+}
+.fresh{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+    width: 280px;
+    margin-left: 4px;
+    
+}
+.gee{
+    font-size: 140%;
+}
+.frosh{
+    background-color: rgb(255, 255, 255);
+    margin: 19px;
+    padding: 18px;
+    width: 300px;
+    margin-left: 4px;
+}
+.gee2{
+    font-size: 140%;
+}
+.third{
+    margin-left: 55px;
+}
+.fourth{
+    margin-top: 3px;
+    width: 320px;
+    height: 600px;
+    background-color: white;
+    margin-left: 63px;
+    padding: 20px;      
+}
+.fifth{
+    background: url("IMG-20221206-WA0027\ -\ Copy\ \(2\).jpg");
+    background-repeat: no-repeat;
+    background-color: red;
+    width: 940px;
+    background-size: cover;
+    height:40px;
+    padding: 50px;
+    margin: 700px;
+    margin-left: 400px;
+    color: white;
+    padding-top: 36px;
+    line-height: 6px;
+    background-color: red;
+}
+.sip{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.sixth{
+    margin: auto;
+    margin: -6.8in;
+    margin-left: 860px;  
+    color: red;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.seventh, .eighth, .ninth{
+    width: 380px;
+    float: left;
+    margin-left: 320px;
+    padding-left: 22px;
+    background-color: rgb(167, 62, 62);
+    margin-bottom: 2px;
+    margin-top: 8px;
+    height: 94px;
+    line-height: 7px;
+    font-size: smaller;
+    padding: 7px;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#heh{
+    text-align: center;
+    padding-top: 8px;
+}
+#hoh{
+    text-align: center;
+    letter-spacing: 1.6px;
+}
+#heh, #hoh{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#huh{
+    text-align: center;
+    line-height: 18px;
+}
+#his{
+    text-align: center;
+}
+#her{
+    text-align: center;
+}
+.eighth, .ninth{
+    margin-left: 10px;
+    width: 300px;
+}
+.seventh{
+    margin-left: 403px;
+}
+#suu{
+    text-align: left;
+    
+}
+.inten1{
+    background-color: rgb(86, 174, 229);
+    width: 200px;
+    height: 160px;
+    padding-top: 20px;
+    border-radius: 19px;
+    font-size: bigger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    color: white;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+h5{
+    font-size: larger;
+}
+sub, sup{
+    font-size: 10px;
+    text-align: left;
+    line-height: 1px;
+}
+sub{
+    text-align: left;
+    line-height: 1px;
+}
+.hot{
+    font-size: x-large;
+}
+.uhh{
+    line-height: px;
+}
+.tenth{
+    line-height: 1px;
+}
+#inten{
+    line-height: 20px;
+}
+.ish{
+    margin-left: -9px;
+}
+.inten2{
+    background-color: rgb(143, 99, 81);
+    width: 200px;
+    height: 160px;
+    padding-top: 20px;
+    border-radius: 19px;
+    font-size: bigger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    color: white;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+.hit{
+    font-size: x-large;
+}
+#intenn{
+    line-height: 20px;
+}
+.emm{
+    margin-left: -9px;
+}
+#inten, #intenn{
+    font-size: 13px;
+}
+.inten3{
+    background-color: purple;
+    width: 200px;
+    height: 160px;
+    padding-top: 20px;
+    border-radius: 19px;
+    font-size: bigger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    color: white;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+.ehh{
+    margin-left: -9px;
+}
+#intennn{
+    line-height: 20px;
+}    
+.inten1, .inten2, .inten3, .eleventh{
+    float: left;
+    margin-left: 6px;
+    margin-top: -18px;
+}
+.tenth{
+    margin-left: 400px;
+    background-color: white;
+    height: 300px;
+    padding: 7px;
+    padding-left: 20px;
+    width: 680px;
+}
+.get{
+    padding-top: 20px;
+    color: red;  
+}
+.eleventh{
+    margin-top: 3px;
+    width: 250px;
+    height: 320px;
+    background-color: white;
+    margin-left: 1130px;
+    padding: 20px;
+    margin-top: -312px;
+}
+.twelfth{
+    background-color: white;
+    width: 400px;
+    padding: 30px;
+    margin-left: 400px;
+    margin-top: 70px;
+}
+#tea{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+#tee{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 400;
+}
+#too{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+}
+.thirteenth{
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    margin-left: 860px;
+    margin-top: -228px;
+    height: 170px;
+    background-color: rgb(167, 62, 62);
+}
+#heys, #heyss, #heysss, #heyssss{
+    display: inline;
+    margin-right: 28px;
+    text-decoration: solid;
+    text-transform: uppercase;
+    margin: 140px;
+}
+#heys{
+    margin-left: 359px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#heyss, #heysss, #heyssss{
+    margin-left: -10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+#heysssss{
+    font-size: smaller;
+    margin-left: 363px;
+}
+ul{
+    padding-bottom: 20px;  
+}
+#heyssssss{
+    font-size: smaller;
+    margin-left: 603px;
+    margin-top: -110px;
+}
+#heysssssss{
+    font-size: smaller;
+    margin-left: 856px;
+    margin-top: -110px;
+}
+.iff{
+    font-size: smaller;
+    margin-left: 1130px;
+    margin-top: -110px;
+}
+.fourteenth{
+    background-color: rgb(220, 80, 80);
+    padding: 30px;
+    margin-top: 60px;
+    padding-top: 30px;
+    width: 1832px;
+}
+.ooo{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fifteen{
+    background-color: black;
+    color: white;
+    width: 1868px;
+    height: 35px;
+    text-align: center;
+    padding: 12px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.shoot{
+    background-color: white;
+    align-items: right;
+    width: 80px;
+    height: 1px;
+    padding: 30px;
+    margin-left: 800px;
+    margin-top: -59px;
+    text-align: center;
+}
+#opp{
+    text-decoration: none;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar a{
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.dropdown{
+    float: left;
+    overflow: hidden;
+}
+.dropdown .dropbtn{
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+.navbar a:hover, .dropdown:hover 
+.dropbtn, .dropbtn:focus{
+    background-color: red;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a{
+    float: none;
+    color: black;
+    padding: 12px 6px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover{
+    background-color: #ddd;
+}
+.show{
+    display: block;
+}
